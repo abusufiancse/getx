@@ -24,7 +24,7 @@ class AllProductsScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('All Products'),
+        title: const Text('Categories wise Products'),
         actions: [
           IconButton(
             icon: const Icon(Icons.refresh),
