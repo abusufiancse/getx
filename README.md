@@ -1,16 +1,3 @@
 # getx
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## fetch all product from api
+<img  height="350" alt="Screenshot_20251110-163855" src="https://github.com/user-attachments/assets/86f1dc3d-a1c8-4bc0-b433-29d836808198" />
